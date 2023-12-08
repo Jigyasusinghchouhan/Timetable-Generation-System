@@ -1,4 +1,4 @@
-The MIT License (MIT)
+he MIT License (MIT)
 
 Copyright (c) 2012-2015 Kevin Brown, Igor Vaynberg, and Select2 contributors
 

@@ -31,52 +31,51 @@ button
 {   margin-top: 40px;
 	margin-bottom: 20px;
 	letter-spacing: 2px;
-	color: #257a7a;
+	color: #dcbb1d;
 }
 .logo h4
 {
 	letter-spacing: 2px;
 	margin-left: 3px;
-	color:#a29999;
+	color: #048cbd;
 }
 
-nav{
-	width: 100%;
-	height: 100px;
-	background-color: #fff;
-	padding-bottom: 20px;
-	margin-top: 50px;
-}
-nav ul
-{
-	float: right;
+nav {
+  width: 100%;
+  height: 80px;
+  background-color: #333;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  z-index: 1000;
 }
 
-nav ul li
-{
-	display: inline-block;
-	list-style: none;
+nav ul {
+  float: right;
+  margin: 0;
+  padding: 0;
 }
 
-nav ul li a
-{
-	text-decoration: none;
-	color: #272727;
-	padding: 35px 10px;
-	font-size: 13px;
-	letter-spacing: 0.5px;
+nav ul li {
+  display: inline-block;
+  list-style: none;
 }
-nav a
-{
-	transition: 0.4s all;
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 20px 15px;
+  font-size: 15px;
+  letter-spacing: 1px;
+  transition: 0.4s all;
 }
-nav a:hover
-{
-	font-size: 17px;
-	color:#22c6af;
-	transition: 0.4s all;
-	padding: 35px 8px;
+
+nav a:hover {
+  color: #25c7b1;
+  background-color: #fff;
+  transition: 0.4s all;
 }
+
 
 .inner .vec .img img{
 	height: 596px;
