@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="db" uuid="1c607fe6-d28a-4c66-bae6-797a43cdf33b">
+    <data-source source="LOCAL" name="db" uuid="769165c6-8a12-48d4-b326-265815ae7eef">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:E:\Adroit-Scheduler-master\Adroit-Scheduler-master\db.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:E:\MCA\sem 3\mini project\Timetable-Generation-System\Timetable-Generation-System\db.sqlite3</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
       <libraries>
         <library>
@@ -18,15 +18,6 @@
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Xerial SQLiteJDBC/3.43.0/sqlite-jdbc-3.43.0.0.jar</url>
         </library>
       </libraries>
-    </data-source>
-    <data-source source="LOCAL" name="Django default" uuid="d5aa54f9-cc55-4364-a3af-9d119c7274ed">
-      <driver-ref>sqlite.xerial</driver-ref>
-      <synchronize>true</synchronize>
-      <imported>true</imported>
-      <remarks>$PROJECT_DIR$/M1/settings.py</remarks>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:E:\Adroit-Scheduler-master\Adroit-Scheduler-master\db.sqlite3</jdbc-url>
-      <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
 </project>
