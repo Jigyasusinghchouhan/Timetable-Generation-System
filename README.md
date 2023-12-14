@@ -37,7 +37,7 @@ steps:**
 > Run this command on your git terminal
 
 git clone
-[“https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS”](“https:/github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS”)
+[“https://github.com/Jigyasusinghchouhan/Timetable-Generation-System"]
 
 -   After clonning the repository in your computer, run the command:
 
