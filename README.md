@@ -256,12 +256,5 @@ The Timetable Generation System (TTGS) addresses the challenges ofmanual timetab
 2\. \[Ander Fernandez - Genetic Algorithm in Python\](https://anderfernandez.com/en/blog/genetic-algorithm-in-python/)
 
 3\. \[Towards Data Science - Using Genetic Algorithms to Schedule Timetables\](https://towardsdatascience.com/using-genetic-algorithms-to-schedule-timetables-27f132c9e280)
-![Add-Professor](https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS/assets/52603806/e2d2bfc5-0594-4fbf-8e61-3722398cfd35)
-![Add-Course](https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS/assets/52603806/34bc2820-cb2c-45a2-b650-1360ecabbbd7)
-![Add-classroom](https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS/assets/52603806/07aa49fa-3344-4a49-95c4-bdeee67a2b4b)
-![add-Class](https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS/assets/52603806/d3df0b91-ddb0-4371-a7d3-f44bdbe29c64)
-![main-page](https://github.com/Jigyasusinghchouhan/Timetable-Generation-System-TTGS/assets/52603806/dd84e97f-0ba0-4269-ab8e-04f9104dc162)
 
-=======
-# Timetable-Generation-System
->>>>>>> ccbf83075b9b47b91d9b87df7658176681b1d0e6
+
