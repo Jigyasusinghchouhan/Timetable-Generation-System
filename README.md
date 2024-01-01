@@ -21,31 +21,33 @@ steps:**
 
 -   Install Django on your computer by running this command
 
-**pip install Django(For windows)**
+`pip install Django`
 
 -   Install Django Crispy Forms by running this command:
 
-**pip install django-crispy-forms**
+pip install django-crispy-forms**
 
 -   Install Django Multi select fields on your computer:
 
-**pip install django-multiselectfield**
+`pip install django-multiselectfield`
 
 -   If you don’t have Git Bash/Git Bucket on your computer. Then install
     it first.
 
 > Run this command on your git terminal
 
+<<<<<<< Updated upstream
 git clone
 [“https://github.com/Jigyasusinghchouhan/Timetable-Generation-System"]
+=======
+`git clone https://github.com/Jigyasusinghchouhan/Timetable-Generation-System`
+>>>>>>> Stashed changes
 
 -   After clonning the repository in your computer, run the command:
 
-**cd ActivitySelectionTimetable**
+- Run this command to run server on your localhost:8000
 
--   Run this command to run server on your localhost:8000
-
-**python manage.py runserver**
+`python manage.py runserver`
 
 
 # Abstract

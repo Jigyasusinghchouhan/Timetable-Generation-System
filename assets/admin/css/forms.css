@@ -447,9 +447,10 @@ body.popup .submit-row {
 }
 
 .inline-group .tabular th.original {
-    width: 0px;
+    width: 100px;
     padding: 0;
 }
+
 
 .inline-group .tabular td.original p {
     position: absolute;

@@ -11,7 +11,7 @@
     // element when the popup window is dismissed.
     function id_to_windowname(text) {
         text = text.replace(/\./g, '__dot__');
-        text = text.replace(/\-/g, '__dash__');
+        text = text.replace(/-/g, '__dash__');
         return text;
     }
 

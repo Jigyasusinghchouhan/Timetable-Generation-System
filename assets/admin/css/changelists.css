@@ -133,7 +133,7 @@
 #changelist-filter h2 {
     font-size: 14px;
     text-transform: uppercase;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
     padding: 5px 15px;
     margin-bottom: 12px;
     border-bottom: none;
@@ -154,7 +154,7 @@
 
 #changelist-filter ul:last-child {
     border-bottom: none;
-    padding-bottom: none;
+    padding-bottom:0;
 }
 
 #changelist-filter li {
@@ -311,8 +311,7 @@
     border-radius: 4px;
     font-size: 14px;
     padding: 0 0 0 4px;
-    margin: 0;
-    margin-left: 10px;
+    margin: 0 0 0 10px;
 }
 
 #changelist .actions select:focus {

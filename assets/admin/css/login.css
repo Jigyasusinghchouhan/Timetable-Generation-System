@@ -51,14 +51,14 @@ body.login {
     color: #333;
 }
 
-.login .form-row #id_username, .login .form-row #id_password {
+.login .form-row #id_username,
+.login .form-row #id_password {
     clear: both;
     padding: 8px;
     width: 100%;
-    -webkit-box-sizing: border-box;
-       -moz-box-sizing: border-box;
-            box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 
 .login span.help {
     font-size: 10px;
