@@ -1,7 +1,7 @@
 
 # Timetable Generation System (TTGS)
 
-## Configuration Setup
+
 
 **To run this project on your local server, follow the following
 steps:**
