@@ -1,0 +1,11 @@
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Error: That port is already in use.
+[03/May/2024 06:42:27] "GET / HTTP/1.1" 200 2222
+[03/May/2024 06:42:56] "GET / HTTP/1.1" 200 2222
+[03/May/2024 06:45:55] "GET /timetable_generation/ HTTP/1.1" 200 29707
+[03/May/2024 06:49:08] "GET / HTTP/1.1" 200 2222
+[03/May/2024 06:49:09] "GET /static/CSS/style.css HTTP/1.1" 304 0
+[03/May/2024 06:49:09] "GET /static/img/vect.jpg HTTP/1.1" 304 0
